@@ -4,15 +4,8 @@
 
 A project submitted for **Copilot Hackothon'25**.
 
----
-
-## ✅ Selected Problem Statement
-
-**The World of 2070** — *Skill Swap Platform*
-
----
-
 Overview
+
 This project is a web application designed to create a community-driven marketplace for skills. The Skill Swap Platform allows users to trade their expertise with others in a barter-style system. Instead of money, the currency is knowledge and time. For example, a user proficient in Photoshop can offer their skills in exchange for learning Excel from another user.
 
 The goal is to build a mini-application that connects people who want to learn and teach, fostering a collaborative community.

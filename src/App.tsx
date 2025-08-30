@@ -76,7 +76,7 @@ const AppContent: React.FC = () => {
       <footer className="relative z-10 bg-black/90 backdrop-blur-sm border-t border-gray-800 py-6">
         <div className="max-w-7xl mx-auto px-6 text-center">
           <p className="text-gray-400 text-sm">
-            Crafted with <span className="text-teal-400">Team0162</span> • Powered by the future of skill exchange
+            Crafted with <span className="text-teal-400">TEAM SHADOW</span> • Powered by the future of skill exchange
           </p>
         </div>
       </footer>

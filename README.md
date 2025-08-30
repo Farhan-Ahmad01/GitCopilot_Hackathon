@@ -80,7 +80,6 @@ Video link  : *https://drive.google.com/file/d/1foGi3WpIfOKEwKLNoiH1vkFeTkasqewe
 #Profile Page
 ![WhatsApp Image 2025-07-12 at 17 27 40_e66c0da4](https://github.com/user-attachments/assets/5ae61008-6772-49dc-8a42-ec2e40bd8292)
 
-Skill Swap Platform
 
 
 
